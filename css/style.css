@@ -474,10 +474,6 @@ template {
   font-size: 36px;
 }
 
-.overflowHidden {
-  overflow: hidden;
-}
-
 .hamburger_menu {
   display: block;
   height: 80px;
